@@ -1,0 +1,15 @@
+.blogcontainer{
+    flex-direction: row;
+    display: flex;
+    flex:1;
+    margin-top: 50px;
+}
+
+.leftblog{
+   flex: 0.5;
+   padding-left: 20px;
+}
+.rightblog{
+  flex: 0.5;
+  padding-right: 20px;
+}
